@@ -4,7 +4,7 @@ import Lab5 from "./Lab5.js";
 import cors from "cors"
 import CourseRoutes from "./Kanbas/courses/routes.js";
 import ModuleRoutes from "./Kanbas/modules/routes.js";
-const cors = require('cors');
+// const cors = require('cors');
 
 
 const app = express();
